@@ -1,0 +1,11 @@
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\Zza.Data.dll.config
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\Zza.Data.dll
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\Zza.Data.pdb
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\EntityFramework.dll
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\EntityFramework.xml
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\obj\Debug\Zza.Data.dll
+D:\Learning Data\Learning Data\LearningWPFMVVM\ZZData_WPFMVVM\wpf-mvvm-in-depth\04\demos\before\1-MVVMHookupDemo-XAMLHookup\Zza.Data\obj\Debug\Zza.Data.pdb
